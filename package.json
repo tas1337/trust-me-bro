@@ -1,0 +1,37 @@
+{
+  "name": "trust-me-bro",
+  "version": "1.6.7",
+  "description": "Trust me bro!",
+  "main": "index.js",
+  "bin": {
+    "trust-me-bro": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trust",
+    "web",
+    "server",
+    "http",
+    "fun"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tas13/trust-me-bro.git"
+  },
+  "files": [
+    "index.js",
+    "page.html",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "trust-me-bro": "^1.6.7"
+  }
+}
